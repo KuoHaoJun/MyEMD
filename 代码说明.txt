@@ -1,0 +1,22 @@
+﻿一、代码运行环境：
+在使用该代码前，请务必安装EMD工具箱。
+工具箱下载路径为：https://github.com/KuoHaoJun/EMD_Toolboxs
+下载文件并解压，按照word中的步骤操作即可完成工具箱安装。
+
+二、文件说明
+1. testEMD.m
+用于测试EMD功能的脚本文件，可以直接运行其中调用了PlotEMDandFFT
+
+2. PlotEMDandFFT.m
+封装好的画图程序，可以绘制出信号EMD分解与各IMF分量频谱对照图，p文件，可以调用。
+
+3. Fb_FFT.m
+封装好的fft计算程序，在PlotEMDandFFT.m中调用，一般不需要修改，p文件，可以调用。
+
+三、常见问题：
+暂无
+四、获取源码
+如果需要封装好的画图函数（PlotEMDandFFT.m 和Fb_FFT.m）的源码，可在下述连接获取。
+编程不易，感谢支持~
+紧巴巴的学生党可以联系店主，店主会给优惠~
+https://item.taobao.com/item.htm?spm=a2126o.11854294.0.0.16fb4831mCHFl2&id=614775583119
